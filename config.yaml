@@ -4,8 +4,7 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        sketch: 1
+        line drawing: 2
 # 通知の閾値
 score_threshold: 0
